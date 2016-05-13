@@ -1,0 +1,1 @@
+<h1><?php echo $this->data->user; ?></h1>
